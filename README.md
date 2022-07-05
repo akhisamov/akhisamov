@@ -6,8 +6,7 @@
   </a>
   </div>
   <h1>
-    Hi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Amiyo
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Amiyo
   </h1>
 </div>
 
@@ -29,10 +28,6 @@ I am a Full Stack Game Developer.
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg" title="SDL" alt="SDL" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/MonoGame_Logo.svg" title="MonoGame" alt="MonoGame" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" title="Unity" alt="Unity" height="40"/>
-  <img src="https://media.giphy.com/media/KnJ6Yusfl8B4shN2f3/giphy.gif" title="Unreal Engine 4" alt="Unreal Engine 4" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
 </div>
