@@ -15,7 +15,7 @@
 I am a Full Stack Game Developer.
 
 - Currently I'm working as a C++ Gameplay Programmer :video_game:
-- How to reach me **hisamov.amiyo@gmail.com** or [LinkedIn](https://www.linkedin.com/in/amiyo/) :mailbox:
+- How to reach me **hisamov.amiyo@gmail.com** or [LinkedIn](https://www.linkedin.com/in/onewhohopes/) :mailbox:
 
 ---
 
