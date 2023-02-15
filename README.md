@@ -6,7 +6,7 @@
   </a>
   </div>
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Amiyo
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Amil
   </h1>
 </div>
 
@@ -15,7 +15,7 @@
 I am a Full Stack Game Developer.
 
 - Currently I'm working as a C++ Gameplay Programmer :video_game:
-- How to reach me **hisamov.amiyo@gmail.com** or [LinkedIn](https://www.linkedin.com/in/onewhohopes/) :mailbox:
+- How to reach me **akhisamov@mailbox.org** or [LinkedIn](https://www.linkedin.com/in/akhisamov/) :mailbox:
 
 ---
 
