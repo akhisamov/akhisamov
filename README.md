@@ -10,16 +10,20 @@
   </h1>
 </div>
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 
 I am a Full Stack Game Developer.
 
-- Currently I'm working as a C++ Gameplay Programmer :video_game:
-- How to reach me **akhisamov@mailbox.org** or [LinkedIn](https://www.linkedin.com/in/akhisamov/) :mailbox:
+Currently I'm working ...
+  - as a Gameplay Programmer in [Scorewarrior](https://scorewarrior.com/) <a href="https://scorewarrior.com/"><img src="https://assets-global.website-files.com/633da33305ac754156026dd8/6399dbd8964dcc72df263423_scorewarriror-256-256.png" title="Scorewarrior" alt="Scorewarrior" height="20" /></a>
+  - on a secret game with my wife 🎮
+  - on my own [game framework/engine](https://github.com/akhisamov/inari) in my spare time 🦊
+
+How to reach me **akhisamov@mailbox.org** or [LinkedIn](https://www.linkedin.com/in/akhisamov/) :mailbox:
 
 ---
 
-### :hammer_and_wrench: Languages, Engines and Tools :
+### 🛠️ Languages, Engines and Tools :
 
 <div>
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>
