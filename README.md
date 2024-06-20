@@ -15,7 +15,7 @@
 I am a Full Stack Game Developer.
 
 I'm currently working ...
-  - ~~as a Gameplay Programmer in [Scorewarrior](https://scorewarrior.com/) <a href="https://scorewarrior.com/"><img src="https://assets-global.website-files.com/633da33305ac754156026dd8/6399dbd8964dcc72df263423_scorewarriror-256-256.png" title="Scorewarrior" alt="Scorewarrior" height="20" /></a>~~
+  - as a Gameplay Programmer in [Scorewarrior](https://scorewarrior.com/) <a href="https://scorewarrior.com/"><img src="https://assets-global.website-files.com/633da33305ac754156026dd8/6399dbd8964dcc72df263423_scorewarriror-256-256.png" title="Scorewarrior" alt="Scorewarrior" height="20" /></a>
   - on gamedev things in my spare time 🧑🏻‍💻
 
 How to reach me **akhisamov@mailbox.org** or [LinkedIn](https://www.linkedin.com/in/akhisamov/) :mailbox:
